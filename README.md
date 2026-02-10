@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**biraj2833/biraj2833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hello and welcome! I’m <span style="color:#3DA9FC;">Biraj</span></h1>
 
-Here are some ideas to get you started:
+<br/>
+<p align="center">
+  <a href="#TypingSVG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=100&color=36BCF7&center=true&vCenter=true&width=650&lines=UI/UX+Designer;App+Developer;Prompt+Engineering+Practitioner;Always+Learning+Something+New;Participating+in+Tech+Events;" alt="Typing SVG" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:biraj7507@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/biraj-biswas-386568307/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+</div>
+<div align="center">
+
+## ⚡ Current Statistics ⚡
+
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=biraj2833&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+</div>
+
+## 🚀 About Me
+
+</div>
+
+```text
+🎨 UI/UX Designer with strong visual and product thinking  
+📱 Currently learning Mobile App Development (Flutter / Android)  
+🧠 Focused on building clean, usable, and scalable apps  
+⚡ Design-first approach to development  
