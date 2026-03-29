@@ -4,7 +4,7 @@
 
 <br/>
 <p align="center">
-  <a href="#TypingSVG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=100&color=36BCF7&center=true&vCenter=true&width=650&lines=UI/UX+Designer;App+Developer;Prompt+Engineering+Practitioner;Always+Learning+Something+New;Participating+in+Tech+Events;" alt="Typing SVG" /></a>
+  <a href="#TypingSVG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=100&color=36BCF7&center=true&vCenter=true&width=650&lines=UI/UX+Designer;App+Developer;Always+Learning+Something+New;Participating+in+Tech+Events;" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Links -->
